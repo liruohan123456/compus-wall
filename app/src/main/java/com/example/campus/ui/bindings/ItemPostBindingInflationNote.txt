@@ -1,0 +1,1 @@
+This file is a placeholder note: Android ViewBinding will generate ItemPostBinding from item_post.xml at build time. No code here.
